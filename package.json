@@ -1,0 +1,6 @@
+{
+  "name": "parcel-workspaces-repro",
+  "workspaces": [
+    "apps/*"
+  ]
+}
